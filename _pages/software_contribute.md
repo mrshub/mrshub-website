@@ -39,7 +39,7 @@ Apart from your code, valid submissions through any of these three pathways requ
 
 ## Submitting through e-mail
 
-Create a .zip file containing the code folder and example data, `SUBMISSION.md` and `LICENSE.md`. Send this .ZIP file via e-mail or include a link to a file hoster where we can access it.
+Create a .zip file containing the code folder and example data, `SUBMISSION.md` and `LICENSE.md`. Send this .ZIP file via [e-mail](goeltzs1@jhmi.edu) or include a link to a file hoster where we can access it.
 
 ## Submitting through the MRSHub forum
 
