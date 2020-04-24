@@ -32,7 +32,7 @@ When submitting your data, please attach basic information by filling in the fol
 
 ## Submitting through e-mail
 
-Send an e-mail with the basic submission information. We will then create an entry for your submission to the [MRSHub dataset collection](https://www.mrshub.org/datasets/). If you submit an example dataset (<200 MB total file size), we will also create a repository in the [MRSHub GitHub account](https://github.com/mrshub).
+Send an [e-mail (remove the dashes)](goe-ltzs-1(a)jh-mi.edu) with the basic submission information. We will then create an entry for your submission to the [MRSHub dataset collection](https://www.mrshub.org/datasets/). If you submit an example dataset (<200 MB total file size), we will also create a repository in the [MRSHub GitHub account](https://github.com/mrshub).
 
 ## Submitting through the MRSHub forum
 
@@ -50,6 +50,8 @@ The [Brain Imaging Data Structure (BIDS)](https://bids.neuroimaging.io/) specifi
 
 # De-identification
 
-It is your responsibility to comply with the requirements to remove all protected health information (PHI) from file names, headers, and files themselves. If you include anatomical data in your dataset, make sure that you make use of appropriate defacing algorithms as well.
+It is your responsibility to comply with the requirements to remove all protected health information (PHI) from file names, headers, and files themselves. It is also your responsibility to comply with your institutional, legislative, and ethical requirements regarding data sharing. If you include anatomical data in your dataset, make sure that you make use of appropriate defacing algorithms as well.
 
 You can find a list of de-identification tools in the [MRSHub software collection](https://www.mrshub.org/software_deid).
+
+If you see an instance of questionable data including PHI hosted in our repository or in a repository linked on the MRSHub website, please contact us through the forum so we can address the situation.
