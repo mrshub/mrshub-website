@@ -41,6 +41,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - _posts
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -83,7 +84,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mrshub"
+      url: "https://twitter.com/mr_spectroscopy"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mrshub"
@@ -106,7 +107,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
