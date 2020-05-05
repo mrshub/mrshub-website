@@ -1,8 +1,8 @@
 ---
 title: "Welcome to MRSHub!"
-date: 2020-05-05T10:44:30-04:00
+last_modified_at: 2020-05-05T10:44:30-04:00
 categories:
-  - blog
+  - Blog
 tags:
   - MRSHub
   - update
