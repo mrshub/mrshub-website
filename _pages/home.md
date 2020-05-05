@@ -10,7 +10,7 @@ feature_row:
     title: "Software & Code"
     excerpt: "The MRSHub code repository collects software packages and functions to process, manipulate, analyse, and display MRS data."
     url: /software
-    btn_label: "To the MRSHub code repository"
+    btn_label: "To the MRSHub code listing"
     btn_class: "btn--info btn--small"
   - image_path: assets/images/forum.jpg
     alt: "MRSHub Forum"
@@ -24,7 +24,7 @@ feature_row:
     title: "Data"
     excerpt: "The MRSHub data repository collects MRS datasets for demonstration and testing of new methods."     
     url: /datasets
-    btn_label: "To the MRSHub data repository"
+    btn_label: "To the MRSHub data listing"
     btn_class: "btn--info btn--small"
 
 ---
