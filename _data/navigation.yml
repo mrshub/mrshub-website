@@ -1,4 +1,7 @@
 main:
+  - title: "Home"
+    url: /
+    description: "The MRSHub Home"
   - title: "Software & Code"
     url: /software/
     description: "The MRSHub software and code repository"
