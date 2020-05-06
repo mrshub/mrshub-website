@@ -2,9 +2,6 @@
 permalink: /links/
 title: "Links"
 
-sidebar:
-  nav: "about"
-
 ---
 
 This is a list of useful resources and links.
