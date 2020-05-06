@@ -1,7 +1,14 @@
 Georg Oeltzschner:
   name   : "Georg Oeltzschner"
   avatar : "/assets/images/authors/go.jpg"
-  bio    : "Johns Hopkins University"
+  bio    : "Instructor in Radiology at Johns Hopkins University in Baltimore.
+
+
+           Interested in advanced spectral editing, new modelling and quantification approaches; passionate about open-source software development, code sharing, data sharing, and collaborative research.
+
+
+           Lover of football (the variety played with your feet), my roadbike, coffee, podcasts, and Spotify playlists. Enthusiastic, but pathetic amateur woodworker."
+
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
