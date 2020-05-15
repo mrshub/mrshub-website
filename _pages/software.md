@@ -16,7 +16,11 @@ You don’t have to be familiar with GitHub to download code from this site. Thr
 
 2. Find a package entry that has an ['MRSHub Code']() link at the bottom (circled in red). Click on this link.
 
-3. You are now taken to the GitHub repository front page. Click on the green 'Clone or download' button (circled in red) to download a `.ZIP` file containing all the files in the repository to your computer.
+    ![MRSHub Code links take you to a GitHub repository](/assets/images/software-how-to-access-code-mrshub-link.png)
+
+3. You are now taken to the GitHub repository front page. Click on the green 'Clone or download' button (circled in green) to download a `.ZIP` file containing all the files in the repository to your computer.
+
+    ![Navigating through and downloading from a GitHub repository](/assets/images/software-navigate-github-repository.png)
 
 4. Alternatively, you can just browse the directories and files directly by clicking on a directory or file link (circled in purple).
 
