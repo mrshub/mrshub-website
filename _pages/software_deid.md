@@ -19,7 +19,7 @@ toc: true
   License: {{ software_collection.license }} <br>
   Credit: {{ software_collection.credit }} <br>
   {% if software_collection.mrshub_url %}<a href="{{ software_collection.mrshub_url }}">MRSHub Code</a>&nbsp;{% endif %}
-  {% if software_collection.original_url %}<a href="{{ software_collection.original_url }}">Original URL</a>&nbsp;{% endif %}
+  {% if software_collection.original_url %}<a href="{{ software_collection.original_url }}">Original Website</a>&nbsp;{% endif %}
   {% if software_collection.paper %}<a href="{{ software_collection.paper }}">Publication</a>{% endif %}
   {% endif %}
 {% endfor %}
