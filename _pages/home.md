@@ -5,7 +5,7 @@ permalink: /
 date: 2020-04-09T12:00:00-04:00
 
 feature_row:
-  - image_path: /assets/images/code.jpg
+  - image_path: /assets/images/code.png
     alt: "Software & Code"
     title: "Software & Code"
     excerpt: "The MRSHub code repository collects software packages and functions to process, manipulate, analyse, and display MRS data."
