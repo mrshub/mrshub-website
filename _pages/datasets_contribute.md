@@ -1,7 +1,7 @@
 ---
 title: "How to contribute data to MRSHub"
 permalink: /datasets_contribute/
-date: 2020-04-16T9:00:00+00:00
+date: 2020-05-15T9:00:00+00:00
 sidebar:
   nav: "datasets"
 ---
@@ -30,10 +30,6 @@ When submitting your data, please attach basic information by filling in the fol
 - **Credit**: Indicate how you would like to be credited for your data - for example, if a certain publication should be cited, or whether you would like to be acknowledged in publications using your data. (OPTIONAL)
 - **Contact**: A way you can be contacted, for example an e-mail address, the website of your lab, or your LinkedIn/Researchgate/Google Scholar page. (OPTIONAL)
 
-## Submitting through e-mail
-
-Send an [e-mail (remove the dashes)](goe-ltzs-1(a)jh-mi.edu) with the basic submission information. We will then create an entry for your submission to the [MRSHub dataset collection](https://www.mrshub.org/datasets/). If you submit an example dataset (<200 MB total file size), we will also create a repository in the [MRSHub GitHub account](https://github.com/mrshub).
-
 ## Submitting through the MRSHub forum
 
 Create a new topic in the [MRSHub forum](https://forum.mrshub.org) with the basic submission information. We will then create an entry for your submission to the [MRSHub dataset collection](https://www.mrshub.org/datasets/). If you submit an example dataset (<200 MB total file size), we will also create a repository in the [MRSHub GitHub account](https://github.com/mrshub).
@@ -41,6 +37,10 @@ Create a new topic in the [MRSHub forum](https://forum.mrshub.org) with the basi
 ## Submitting directly via GitHub (EXAMPLE DATASETS ONLY)
 
 Create a new topic in the [MRSHub forum](https://forum.mrshub.org) with a link to your example data repository. We will fork the repository into the [MRSHub GitHub account](https://github.com/mrshub).
+
+## Submitting through e-mail
+
+Send an [e-mail (remove the dashes)](goe-ltzs-1(a)jh-mi.edu) with the basic submission information. We will then create an entry for your submission to the [MRSHub dataset collection](https://www.mrshub.org/datasets/). If you submit an example dataset (<200 MB total file size), we will also create a repository in the [MRSHub GitHub account](https://github.com/mrshub).
 
 # Organizing your dataset
 

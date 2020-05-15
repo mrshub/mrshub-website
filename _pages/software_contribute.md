@@ -1,7 +1,7 @@
 ---
 title: "Sharing your code on MRSHub"
 permalink: /software_contribute/
-date: 2020-04-19T9:00:00+00:00
+date: 2020-05-15T9:00:00+00:00
 classes: wide
 sidebar:
   nav: "software"
@@ -16,7 +16,7 @@ Contributing useful code that you wrote to solve a recurring task is a great way
 
 # Submission guidelines
 
-There are three easy ways to submit your work for being featured on the MRSHub: e-mail, the MRSHub forum, or directly via GitHub. We will then generate entries for your contribution on the [MRSHub software collection page](https://www.mrshub.org/software/), and add the code to a separate repository in the [MRSHub GitHub account](https://github.com/mrshub).
+There are three easy ways to submit your work for being featured on the MRSHub: through the MRSHub forum, directly via GitHub, or via e-mail. We will then generate entries for your contribution on the [MRSHub software collection page](https://www.mrshub.org/software/), and add the code to a separate repository in the [MRSHub GitHub account](https://github.com/mrshub).
 
 Apart from your code, valid submissions through any of these three pathways require two text files, and an optional image file to be shown next to the entry associated with your submission:
 
@@ -37,10 +37,6 @@ Apart from your code, valid submissions through any of these three pathways requ
 
 * If you want, you can add a square image (in .PNG or .JPG format) to your submission. We will use this image to be displayed next to its entry on the [MRSHub software collection page](https://www.mrshub.org/software/), and to its repository in the [MRSHub GitHub account](https://github.com/mrshub).
 
-## Submitting through e-mail
-
-Create a .zip file containing the code folder and example data, `SUBMISSION.md` and `LICENSE.md`. Send this .ZIP file via [e-mail (remove the dashes)](goe-ltzs-1(a)jh-mi.edu) or include a link to a file hoster where we can access it.
-
 ## Submitting through the MRSHub forum
 
 Create a new topic in the [MRSHub forum](https://forum.mrshub.org) with the basic submission information. Preface the title of the topic with [CODE SUBMISSION]. Upload a .ZIP file containing the code folder, example data, `SUBMISSION.md` and `LICENSE.md` to a file hoster where we can access it, and include the link in your topic.
@@ -48,6 +44,10 @@ Create a new topic in the [MRSHub forum](https://forum.mrshub.org) with the basi
 ## Submitting directly via GitHub
 
 Create a new topic in the [MRSHub forum](https://forum.mrshub.org) with a link to your repository. Include the code folder, example data, `SUBMISSION.md` and `LICENSE.md` in the repository . We will fork the repository into the [MRSHub GitHub account](https://github.com/mrshub). Whenever you update your own repository and wish to have the new features included in the MRSHub repository, submit a pull request from your personal repository to the MRSHub repository, or let us know in the forum topic belonging to your initial submission.
+
+## Submitting through e-mail
+
+Create a .zip file containing the code folder and example data, `SUBMISSION.md` and `LICENSE.md`. Send this .ZIP file via [e-mail (remove the dashes)](goe-ltzs-1(a)jh-mi.edu) or include a link to a file hoster where we can access it.
 
 # Good coding practices
 

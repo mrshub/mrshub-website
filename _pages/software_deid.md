@@ -1,7 +1,7 @@
 ---
 title: "Deidentification"
 permalink: /software_deid/
-date: 2020-04-16T13:00:00+00:00
+date: 2020-05-15T9:00:00+00:00
 sidebar:
   nav: "software"
 toc: true
