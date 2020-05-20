@@ -1,27 +1,13 @@
 ---
 title: "Data"
 permalink: /datasets/
-date: 2020-04-16T00:00:00+00:00
+date: 2020-05-20T00:00:00+00:00
 sidebar:
   nav: "datasets"
 ---
 
-The MRSHub is a place to share example datasets for optimization and testing of processing methods. For smaller datasets, you can use the MRSHub GitHub data repository. For larger datasets, consider hosting them in dedicated storage on your institutional server, or leveraging large-scale repositories like [NITRC](https://www.nitrc.org).
+# How to access datasets
 
-{% for dataset_collection in site.dataset_collection %}
-  {% if dataset_collection.type contains "dataset" %}
-  <h2>
-      {{ dataset_collection.name }}
-  </h2>
-  <img src= "{{ site.url }}{{ site.baseurl }}{{ dataset_collection.image }}" alt="" align="right"/>
-  <p>{{ dataset_collection.abstract | markdownify }}</p>
-  <p>Sequence: {{ dataset_collection.sequence }}</p>
-  <p>License: {{ dataset_collection.license }}</p>
-  <a href="{{ dataset_collection.weblink }}">
-  Website
-  </a>   
-  <a href="{{ dataset_collection.paper }}">
-  Publication
-  </a>
-  {% endif %}
-{% endfor %}
+You can browse the various dataset categories by clicking on a topic in the column to the left. Each topic takes you to a list of associated datasets.
+
+Links in each dataset entry will take you to either an external web site (typical for large-scale datasets), or to small-scale example datasets living in GitHub repositories on the MRSHub.

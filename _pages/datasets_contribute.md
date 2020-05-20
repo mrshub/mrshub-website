@@ -15,20 +15,59 @@ Contributing MRS datasets that you acquired and/or simulated provides the commun
 * get credit for your work.
 * gain recognition of your name and familiarity with your work.
 
-# Submission guidelines
+# How do I submit data?
+
+There are three easy ways to submit code to the MRSHub (more details below:)
+
+1. Create an [MRSHub forum](https://forum.mrshub.org) post with `[DATA SUBMISSION] ...` in the title, and include the submission information outlined below.
+
+2. [E-mail (remove the dashes)](mailto:goe-ltzs-1[a]jh-mi.edu) us directly.
+
+We will then generate an [MRSHub website](https://www.mrshub.org/datasets) entry.
+
+# What kind of data can I submit?
 
 We distinguish between two types of dataset submission:
 - **Example datasets**: Smaller datasets that can be hosted in a single GitHub repository, and have a total size of less than 200 MB. We can fork these data into the [MRSHub GitHub account](https://github.com/mrshub).
 - **Large datasets**: Larger-scale datasets exceeding a total size of 200 MB. These datasets need to be hosted on an external file hoster, such as an institutional server, cloud service, or [NITRC](https://www.nitrc.org). Once you submit a large dataset, we will add an entry to the [MRSHub dataset collection](https://www.mrshub.org/datasets/)
 
-When submitting your data, please attach basic information by filling in the following template. We will use this information to generate the entry for your contribution on the MRSHub datasets page.
-- **Developer**: The name(s) you want to credit. (MANDATORY)
+# What do I have to include in my submission?
+
+There is one short text file required, and two optional files you can provide.
+
+1. **(required)** In all three submission methods, you have to provide a `SUBMISSION.md` text file. This contains the information that shows up in your MRSHub website entry.
+
+2. **(optional)** You may provide a `LICENSE.md` text file with your licensing requirements.
+  * **If not provided, we will automatically include a [BSD 3-clause license](https://opensource.org/licenses/BSD-3-Clause) (approved by the Open Source Initiative) to your repository.**
+  * Templates for various licenses (BSD, MIT, GPL) can be found [here](https://choosealicense.com/).
+
+3. **(optional)** You may provide a small, square logo file (`.PNG` or `.JPG` format) that will help personalize your MRSHub website entry.
+
+# What goes into the `SUBMISSION.md` file?
+
+We provide a template `SUBMISSION.md` file for your convenience [here](/assets/examplefiles/SUBMISSION.md).
+
+
 - **Name of the software**: The name of the dataset. (MANDATORY)
 - **Abstract**: A brief description of the dataset you contribute. (MANDATORY)
 - **Format**: The data formats used in your dataset (MANDATORY)
 - **Sequence**: The MRS sequence(s) used to acquire the dataset (MANDATORY)
 - **Credit**: Indicate how you would like to be credited for your data - for example, if a certain publication should be cited, or whether you would like to be acknowledged in publications using your data. (OPTIONAL)
 - **Contact**: A way you can be contacted, for example an e-mail address, the website of your lab, or your LinkedIn/Researchgate/Google Scholar page. (OPTIONAL)
+
+| Field | Mandatory? | Description |
+| ----  | ---------- | ----------- |
+| Developer | Yes | The name(s) you want to credit with development |
+| Name of dataset | Yes | The name of the dataset. |
+| Abstract | Yes | A brief description of the dataset you contribute. |
+| Format | Yes | The data formats used in your dataset. |
+| Sequence | Yes | The MRS sequence(s) used to acquire the dataset. |
+| Credit | No | Indicate how you would like to be credited for your data - for example, if a certain publication should be cited, or whether you would like to be acknowledged in publications using your data. |
+| Contact | No | A way you can be contacted, for example an e-mail address, the website of your lab, or your LinkedIn/Researchgate/Google Scholar page. Please note, this information will be made available on the MRSHub website, so if you would rather your e-mail not be made public, please don't include. |
+| Publication | No | A publication you want to associate with the submission |
+| URL | No | A URL to a project page, data repository etc. associated with the submission |
+
+# Very specific details about how to submit
 
 ## Submitting through the MRSHub forum
 

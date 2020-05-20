@@ -54,6 +54,19 @@ datasets:
           url: /datasets/
         - title: "Contribute your dataset"
           url: /datasets_contribute/
+        - title: "Data privacy and compliance"
+          url: /datasets_privacy/
+
+  - title: "Available datasets"
+    children:
+        - title: "Single-voxel MRS"
+          url: /datasets_svs/
+        - title: "MRSI"
+          url: /datasets_mrsi/
+        - title: "Macromolecules"
+          url: /datasets_mm/
+        - title: "Basis sets"
+          url: /datasets_basissets/
 
 # about sidebar links
 about:
