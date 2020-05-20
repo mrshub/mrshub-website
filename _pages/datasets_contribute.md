@@ -6,7 +6,7 @@ sidebar:
   nav: "datasets"
 ---
 
-# Sharing data
+# Why share data?
 
 Contributing MRS datasets that you acquired and/or simulated provides the community with new resources to...
 * develop and improve data processing routines.
@@ -40,7 +40,7 @@ Create a new topic in the [MRSHub forum](https://forum.mrshub.org) with a link t
 
 ## Submitting through e-mail
 
-Send an [e-mail (remove the dashes)](goe-ltzs-1(a)jh-mi.edu) with the basic submission information. We will then create an entry for your submission to the [MRSHub dataset collection](https://www.mrshub.org/datasets/). If you submit an example dataset (<200 MB total file size), we will also create a repository in the [MRSHub GitHub account](https://github.com/mrshub).
+Send an [e-mail (remove the dashes)](mailto:goe-ltzs-1[a]jh-mi.edu) with the basic submission information. We will then create an entry for your submission to the [MRSHub dataset collection](https://www.mrshub.org/datasets/). If you submit an example dataset (<200 MB total file size), we will also create a repository in the [MRSHub GitHub account](https://github.com/mrshub).
 
 # Organizing your dataset
 

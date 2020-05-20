@@ -9,21 +9,30 @@ sidebar:
 
 ---
 
+# Why share code?
+
 Contributing useful code that you wrote to solve a recurring task is a great way to...
 * assist the community in creating tools and propel transparent science.
 * avoid duplication of efforts.
 * get credit and gain recognition of your work.
 
 # How do I submit code?
+
 There are three easy ways to submit code to the MRSHub (more details below:)
 
 1. Create an [MRSHub forum](https://forum.mrshub.org) post with `[CODE SUBMISSION] ...` in the title and ...
    * Attach a `.ZIP` file (and other required information)
    * **OR**, include your existing GitHub repository (and other required information)
 
-2. [E-mail (remove the dashes)](goe-ltzs-1(a)jh-mi.edu) us directly, we'll put it in our default repository.
+2. [E-mail (remove the dashes)](mailto:goe-ltzs-1[a]jh-mi.edu) us directly, we'll put it in our default repository.
 
 We will generate an [MRSHub website](https://www.mrshub.org/software) entry, and add your code to the [MRSHub GitHub account](https://github.com/mrshub).
+
+# What if I just want to link to my own project website/repository?
+
+For larger projects, you may prefer to simply point to an existing website, or a repository where your code lives in. We would still love to add an entry to the [MRSHub software collection](https://www.mrshub.org/software)! In that case, simply follow the submission guidelines below, and make sure you point to the appropriate URL associated with your project.
+
+If your project lives on GitHub, you can also add the topic `mrshub` to your repository - see this [how-to in the GitHub documentation](https://help.github.com/en/github/administering-a-repository/classifying-your-repository-with-topics). Your repository will then appear if GitHub users search for the [`mrshub` topic](https://github.com/topics/mrshub).
 
 # What do I have to include in my submission?
 
@@ -66,7 +75,7 @@ Create a new topic in the [MRSHub forum](https://forum.mrshub.org) with `[CODE S
 
 ## Submitting through e-mail
 
-Create a `.ZIP` file containing the code folder and example data, the `SUBMISSION.md` file and (optionally) the `LICENSE.md` and logo files. Send us an [e-mail (remove the dashes)](goe-ltzs-1(a)jh-mi.edu) with the `.ZIP` file attached, or include a link to an online file host where we can access it.
+Create a `.ZIP` file containing the code folder and example data, the `SUBMISSION.md` file and (optionally) the `LICENSE.md` and logo files. Send us an [e-mail (remove the dashes)](mailto:goe-ltzs-1[a]jh-mi.edu) with the `.ZIP` file attached, or include a link to an online file host where we can access it.
 
 # Good coding practices
 
