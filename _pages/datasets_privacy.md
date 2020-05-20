@@ -2,6 +2,7 @@
 title: "Data privacy and compliance"
 permalink: /datasets_privacy/
 date: 2020-05-15T9:00:00+00:00
+classes: wide
 sidebar:
   nav: "datasets"
 ---

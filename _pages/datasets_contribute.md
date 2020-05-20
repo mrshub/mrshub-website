@@ -1,7 +1,8 @@
 ---
 title: "How to contribute data to MRSHub"
 permalink: /datasets_contribute/
-date: 2020-05-15T9:00:00+00:00
+date: 2020-05-20T9:00:00+00:00
+classes: wide
 sidebar:
   nav: "datasets"
 ---
