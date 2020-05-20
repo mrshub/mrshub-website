@@ -18,7 +18,7 @@ Contributing MRS datasets that you acquired and/or simulated provides the commun
 
 # How do I submit data?
 
-There are three easy ways to submit code to the MRSHub (more details below:)
+There are two easy ways to submit data to be featured on the MRSHub (more details below:)
 
 1. Create an [MRSHub forum](https://forum.mrshub.org) post with `[DATA SUBMISSION] ...` in the title, and include the submission information outlined below.
 
@@ -36,7 +36,7 @@ We distinguish between two types of dataset submission:
 
 There is one short text file required, and two optional files you can provide.
 
-1. **(required)** In all three submission methods, you have to provide a `SUBMISSION.md` text file. This contains the information that shows up in your MRSHub website entry.
+1. **(required)** In both submission methods, you have to provide a `SUBMISSION.md` text file. This contains the information that shows up in your MRSHub website entry.
 
 2. **(optional)** You may provide a `LICENSE.md` text file with your licensing requirements.
   * **If not provided, we will automatically include a [BSD 3-clause license](https://opensource.org/licenses/BSD-3-Clause) (approved by the Open Source Initiative) to your repository.**
@@ -47,14 +47,6 @@ There is one short text file required, and two optional files you can provide.
 # What goes into the `SUBMISSION.md` file?
 
 We provide a template `SUBMISSION.md` file for your convenience [here](/assets/examplefiles/SUBMISSION.md).
-
-
-- **Name of the software**: The name of the dataset. (MANDATORY)
-- **Abstract**: A brief description of the dataset you contribute. (MANDATORY)
-- **Format**: The data formats used in your dataset (MANDATORY)
-- **Sequence**: The MRS sequence(s) used to acquire the dataset (MANDATORY)
-- **Credit**: Indicate how you would like to be credited for your data - for example, if a certain publication should be cited, or whether you would like to be acknowledged in publications using your data. (OPTIONAL)
-- **Contact**: A way you can be contacted, for example an e-mail address, the website of your lab, or your LinkedIn/Researchgate/Google Scholar page. (OPTIONAL)
 
 | Field | Mandatory? | Description |
 | ----  | ---------- | ----------- |
