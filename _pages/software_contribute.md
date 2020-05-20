@@ -1,24 +1,16 @@
 ---
-title: "How to submit code"
+title: "Sharing software on MRSHub"
 permalink: /software_contribute/
 date: 2020-05-15T9:00:00+00:00
 classes: wide
 sidebar:
   nav: "software"
 
-
 ---
 
-# Why share code?
+# How do I submit code to be hosted on MRSHub?
 
-Contributing useful code that you wrote to solve a recurring task is a great way to...
-* assist the community in creating tools and propel transparent science.
-* avoid duplication of efforts.
-* get credit and gain recognition of your work.
-
-# How do I submit code?
-
-There are three easy ways to submit code to the MRSHub (more details below:)
+There are three easy ways to submit code to MRSHub (more details below:)
 
 1. Create an [MRSHub forum](https://forum.mrshub.org) post with `[CODE SUBMISSION] ...` in the title and ...
    * Attach a `.ZIP` file (and other required information)
@@ -28,7 +20,7 @@ There are three easy ways to submit code to the MRSHub (more details below:)
 
 We will generate an [MRSHub website](https://www.mrshub.org/software) entry, and add your code to the [MRSHub GitHub account](https://github.com/mrshub).
 
-# What if I just want to link to my own project website/repository?
+# How do I just create an MRSHub entry for my external project?
 
 For larger projects, you may prefer to simply point to an existing website, or a repository where your code lives in. We would still love to add an entry to the [MRSHub software collection](https://www.mrshub.org/software)! In that case, simply follow the submission guidelines below, and make sure you point to the appropriate URL associated with your project.
 
@@ -57,13 +49,13 @@ We provide a template `SUBMISSION.md` file for your convenience [here](/assets/e
 | Abstract | Yes | A brief abstract of the purpose, scope, and functions of the code you contribute |
 | Languages | Yes | The primary programming language(s) of your contribution |
 | Credit | No | Indicate if and how you would like to be credited for your software - for example, if a certain publication should be cited, or whether you would like to be acknowledged in publications using your code. Can also include general information about licensure. |
-| Contact | No | A way you can be contacted, for example an e-mail address, the website of your lab, or your LinkedIn/Researchgate/Google Scholar page. Please note, this information will be made available on the MRSHub website, so if you would rather your e-mail not be made public, please don't include. |
+| Contact | No | A way you can be contacted, for example an e-mail address, the website of your lab, or your LinkedIn/Researchgate/Google Scholar page. Please note, this information will be made available on MRSHub website, so if you would rather your e-mail not be made public, please don't include. |
 | Publication | No | A publication you want to associate with the submission |
 | URL | No | A URL to a project page, code repository etc. associated with the submission |
 
 # Very specific details about how to submit
 
-## Submitting through the MRSHub forum
+## Submitting through MRSHub forum
 
 Create a new topic in the [MRSHub forum](https://forum.mrshub.org) with `[CODE SUBMISSION]` at the start of the title. Give us a **brief** description of what you are providing and how you've included it in this post. Upload a `.ZIP` file containing the code folder, example data, the `SUBMISSION.md` file and (optionally) the `LICENSE.md` and logo files to the post **OR** include a link in the body of the post to an online file host where we can access your files. We will create a repository in the [MRSHub GitHub account](https://github.com/mrshub) for you.
 
@@ -71,7 +63,7 @@ Create a new topic in the [MRSHub forum](https://forum.mrshub.org) with `[CODE S
 
 Create a new topic in the [MRSHub forum](https://forum.mrshub.org) with `[CODE SUBMISSION]` at the start of the title. In the body of the post, include a link to your existing GitHub repository. Your repository should include a code folder, example data, the `SUBMISSION.md` file and (optionally) the `LICENSE.md` and logo files. We will fork the repository into the [MRSHub GitHub account](https://github.com/mrshub).
 
-(optional) Whenever you update your own repository and wish to have the new features included in the MRSHub repository, submit a pull request from your personal repository to the MRSHub repository, or let us know in the forum topic belonging to your initial submission.
+(optional) Whenever you update your own repository and wish to have the new features included in MRSHub repository, submit a pull request from your personal repository to MRSHub repository, or let us know in the forum topic belonging to your initial submission.
 
 ## Submitting through e-mail
 
