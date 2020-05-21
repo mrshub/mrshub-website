@@ -5,13 +5,16 @@ excerpt: "MARSS"
 
 name: MARSS
 image:
-developer: Juchem lab
+developer: Christoph Juchem, Karl Landheer
 type: simulation
-abstract: Tool for fast spatially resolved NMR simulations.
+abstract: A novel software package for fast and computationally efficient basis set simulation.
 language: MATLAB
-license: closed-source
+credit:
+contact:
+license: Closed-source, limited-term academic license
 paper: https://onlinelibrary.wiley.com/doi/full/10.1002/nbm.4129
-url: http://innovation.columbia.edu/technologies/CU19215_MARSS
+mrshub_url:
+original_url: http://innovation.columbia.edu/technologies/CU19215_MARSS
 ---
 
 MARSS.

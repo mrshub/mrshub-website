@@ -1,17 +1,20 @@
 ---
-title: "Inspector"
-excerpt: "Inspector"
+title: "INSPECTOR"
+excerpt: "INSPECTOR"
 
 
-name: Inspector
+name: INSPECTOR
 image:
-developer: Juchem lab
+developer: Christoph Juchem
 type: analysis processing
 abstract: Toolbox to process, analyse and visualize MRS data.
 language: MATLAB
-license: closed-source
-paper: http://innovation.columbia.edu/technologies/cu17130_inspector-magnetic-resonance-spectroscopy-software-for-optimized-data-extraction
-url: http://github.com/richardedden/gannet3.1
+credit:
+contact:
+license: Closed-source, limited-term academic license
+paper:
+mrshub_url:
+original_url: http://innovation.columbia.edu/technologies/cu17130_inspector-magnetic-resonance-spectroscopy-software-for-optimized-data-extraction
 ---
 
-Inspector.
+INSPECTOR.

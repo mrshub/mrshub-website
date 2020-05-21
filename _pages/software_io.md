@@ -14,12 +14,35 @@ This is a list of input/output code to load or save raw data.
   <h2>
       {{ software_collection.name }}
   </h2>
-  <img src= "{{ site.url }}{{ site.baseurl }}{{ software_collection.image }}" alt="" align="right"/>
+  <img src= "{{ site.url }}{{ site.baseurl }}{{ software_collection.image }}" alt="" align="right" width="150"/>
   <p>{{ software_collection.abstract | markdownify }}</p>
-  Developer: {{ software_collection.developer }} <br>
-  Language: {{ software_collection.language }} <br>
-  License: {{ software_collection.license }} <br>
-  Credit: {{ software_collection.credit }} <br>
+
+  <table>
+    <thead>
+      <tr>
+        <th colspan="2"> {{ software_collection.name }} </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>Developer</b></td>
+        <td>{{ software_collection.developer }}</td>
+      </tr>
+      <tr>
+        <td><b>Language</b></td>
+        <td>{{ software_collection.language }}</td>
+      </tr>
+      <tr>
+        <td><b>License</b></td>
+        <td>{{ software_collection.license }}</td>
+      </tr>
+      <tr>
+        <td><b>Credit</b></td>
+        <td>{{ software_collection.credit }}</td>
+      </tr>
+    </tbody>
+  </table>
+  
   {% if software_collection.mrshub_url %}<a href="{{ software_collection.mrshub_url }}">MRSHub Code</a>&nbsp;{% endif %}
   {% if software_collection.original_url %}<a href="{{ software_collection.original_url }}">Original Website</a>&nbsp;{% endif %}
   {% if software_collection.paper %}<a href="{{ software_collection.paper }}">Publication</a>{% endif %}

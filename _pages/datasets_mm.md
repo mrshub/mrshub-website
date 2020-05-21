@@ -13,7 +13,7 @@ This is a list of macromolecules datasets.
   <h2>
       {{ dataset_collection.name }}
   </h2>
-  <img src= "{{ site.url }}{{ site.baseurl }}{{ dataset_collection.image }}" alt="" align="right"/>
+  <img src= "{{ site.url }}{{ site.baseurl }}{{ dataset_collection.image }}" alt="" align="right" width="150"/>
   <p>{{ dataset_collection.abstract | markdownify }}</p>
   <p>Sequence: {{ dataset_collection.sequence }}</p>
   <p>License: {{ dataset_collection.license }}</p>
