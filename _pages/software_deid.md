@@ -9,7 +9,7 @@ toc: true
 
 {% for software_collection in site.software_collection %}
   {% if software_collection.type contains "deidentification" %}
-  <h2>
+  <h2 id="{{ software_collection.name }}">
       {{ software_collection.name }}
   </h2>
   <img src= "{{ site.url }}{{ site.baseurl }}{{ software_collection.image }}" alt="" align="right" width="150"/>
@@ -40,7 +40,7 @@ toc: true
       </tr>
     </tbody>
   </table>
-  
+
   {% if software_collection.mrshub_url %}<a href="{{ software_collection.mrshub_url }}">MRSHub Code</a>&nbsp;{% endif %}
   {% if software_collection.original_url %}<a href="{{ software_collection.original_url }}">Original Website</a>&nbsp;{% endif %}
   {% if software_collection.paper %}<a href="{{ software_collection.paper }}">Publication</a>{% endif %}

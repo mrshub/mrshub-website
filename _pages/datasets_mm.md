@@ -10,7 +10,7 @@ This is a list of macromolecules datasets.
 
 {% for dataset_collection in site.dataset_collection %}
   {% if dataset_collection.type contains "mm" %}
-  <h2>
+  <h2 id="{{ dataset_collection.name }}">
       {{ dataset_collection.name }}
   </h2>
   <img src= "{{ site.url }}{{ site.baseurl }}{{ dataset_collection.image }}" alt="" align="right" width="150"/>

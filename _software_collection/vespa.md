@@ -7,7 +7,7 @@ name: Vespa
 image: /assets/images/software/vespa_thumb.png
 developer: Brian J. Soher
 type: analysis processing simulation
-abstract: The free, open source Vespa suite contains four magnetic resonance (MR) spectroscopy software applications: RFPulse (for RF pulse design), Simulation (for spectral simulation), Priorset (for creating simulated MR spectroscopic data) and Analysis (for spectral data processing and analysis).
+abstract: "The free, open source Vespa suite contains four magnetic resonance (MR) spectroscopy software applications: RFPulse (for RF pulse design), Simulation (for spectral simulation), Priorset (for creating simulated MR spectroscopic data) and Analysis (for spectral data processing and analysis)."
 language: Python
 license: BSD-3
 credit:

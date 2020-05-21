@@ -10,7 +10,7 @@ This is a list of simulation software.
 
 {% for software_collection in site.software_collection %}
   {% if software_collection.type contains "simulation" %}
-  <h2>
+  <h2 id="{{ software_collection.name }}">
       {{ software_collection.name }}
   </h2>
   <img src= "{{ site.url }}{{ site.baseurl }}{{ software_collection.image }}" alt="" align="right" width="150"/>
