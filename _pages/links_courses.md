@@ -124,7 +124,7 @@ This is a list of online courses related to MRS.
 | **INSPECTOR: The New Kid on the Block** | Christoph Juchem, Ph.D. | [ISMRM Virtual Meetings](http://www.ismrm.org/virtual-meetings/) |
 | **SpectrIm: A Tool for the Combined Analysis of MR Spectroscopy & Imaging** | Nuno Barros, M.Sc., Johannes Slotboom, Ph.D. | [ISMRM Virtual Meetings](http://www.ismrm.org/virtual-meetings/) |
 
-## Quantification & Preprocessing software
+## Metabolites & Metabolism
 
 | Title | Speaker | ISMRM Conference/Workshop |
 | ----  | ---------- | ----------- |
