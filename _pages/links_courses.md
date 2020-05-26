@@ -188,6 +188,8 @@ This is a list of online courses related to MRS.
 
 ## Video Lectures
 
-Robin de Graaf: [YouTube](https://www.youtube.com/channel/UCIgLKLBLTUQtMcdpLtPEgTA)
+[ISMRM Online MRS Education Program](https://www.ismrm.org/online-education-program/mrs-videos/).
 
-Rolf Gruetter: [YouTube](https://www.youtube.com/channel/UC8meTj2qFXxuFPrrgI_As2Q)
+[Robin de Graaf's YouTube channel](https://www.youtube.com/channel/UCIgLKLBLTUQtMcdpLtPEgTA)
+
+[Rolf Gruetters's YouTube channel](https://www.youtube.com/channel/UC8meTj2qFXxuFPrrgI_As2Q)
