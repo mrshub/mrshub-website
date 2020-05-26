@@ -43,6 +43,8 @@ software:
           url: /software_io/
         - title: "Processing"
           url: /software_processing/
+        - title: "Reproducible Workflows"
+          url: /software_reproducible_workflows/
         - title: "Visualization"
           url: /software_visualization/
 
@@ -68,6 +70,13 @@ datasets:
         - title: "Basis sets"
           url: /datasets_basissets/
 
+# links sidebar links
+links:
+  - title: "Useful Links"
+    url: /links/
+  - title: "Courses"
+    url: /links_courses/
+    
 # about sidebar links
 about:
   - title: "About"

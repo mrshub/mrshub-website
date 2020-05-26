@@ -1,16 +1,16 @@
 ---
-title: "Input/Output"
-permalink: /software_io/
-date: 2020-05-15T9:00:00+00:00
+title: "Reproducible Workflows"
+permalink: /software_reproducible_workflows/
+date: 2020-05-26T9:00:00+00:00
 sidebar:
   nav: "software"
 toc: true
 ---
 
-This is a list of input/output code to load or save raw data.
+This is a list of code associated with publications, i.e. reproducible workflows and analysis scripts/data.
 
 {% for software_collection in site.software_collection %}
-  {% if software_collection.type contains "inout" %}
+  {% if software_collection.type contains "repro" %}
   <h2 id="{{ software_collection.name }}">
       {{ software_collection.name }}
   </h2>
