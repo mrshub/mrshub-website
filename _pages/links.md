@@ -1,6 +1,10 @@
 ---
 permalink: /links/
 title: "Links"
+date: 2020-05-26T9:00:00+00:00
+sidebar:
+  nav: "links"
+toc: true
 
 ---
 

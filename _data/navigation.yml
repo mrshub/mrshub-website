@@ -72,11 +72,13 @@ datasets:
 
 # links sidebar links
 links:
-  - title: "Useful Links"
-    url: /links/
-  - title: "Courses"
-    url: /links_courses/
-    
+  - title: "Links"
+    children:
+    - title: "Useful Links"
+      url: /links/
+    - title: "Videos and courses"
+      url: /links_courses/
+
 # about sidebar links
 about:
   - title: "About"
