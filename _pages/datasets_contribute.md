@@ -35,7 +35,7 @@ There is one short text file required, and two optional files you can provide.
 
 # What goes into the `SUBMISSION.md` file?
 
-We provide a template `SUBMISSION.md` file for your convenience [here](/assets/examplefiles/SUBMISSION.md).
+We provide a template `SUBMISSION.md` file for your convenience [here](/assets/examplefiles/SUBMISSION_DATA.md).
 
 | Field | Mandatory? | Description |
 | ----  | ---------- | ----------- |
