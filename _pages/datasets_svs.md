@@ -28,6 +28,10 @@ This is a list of single-voxel MRS datasets.
         <td>{{ dataset_collection.developer }}</td>
       </tr>
       <tr>
+        <td><b>Format</b></td>
+        <td>{{ dataset_collection.format }}</td>
+      </tr>
+      <tr>
         <td><b>Sequence</b></td>
         <td>{{ dataset_collection.sequence }}</td>
       </tr>
@@ -39,9 +43,14 @@ This is a list of single-voxel MRS datasets.
         <td><b>Credit</b></td>
         <td>{{ dataset_collection.credit }}</td>
       </tr>
+      <tr>
+        <td><b>Contact</b></td>
+        <td>{{ dataset_collection.contact }}</td>
+      </tr>
     </tbody>
   </table>
 
+  {% if dataset_collection.mrshub_url %}<a href="{{ dataset_collection.mrshub_url }}">MRSHub Data</a>&nbsp;{% endif %}
   {% if dataset_collection.original_url %}<a href="{{ dataset_collection.original_url }}">Original Website</a>&nbsp;{% endif %}{% if dataset_collection.paper %}<a href="{{ dataset_collection.paper }}">Publication</a>{% endif %}
   {% endif %}
 {% endfor %}
