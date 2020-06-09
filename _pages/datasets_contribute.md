@@ -23,7 +23,7 @@ We distinguish between two types of dataset submission:
 
 # What do I have to include in my submission?
 
-There is one short text file required, and two optional files you can provide.
+There are two short text files required, and one optional file you can provide.
 
 1. **(required)** In both submission methods, you have to provide a `SUBMISSION.md` text file. This contains the information that shows up in your MRSHub website entry.
 
