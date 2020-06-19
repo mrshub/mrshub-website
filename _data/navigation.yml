@@ -33,6 +33,8 @@ software:
 
   - title: "Software Packages"
     children:
+        - title: "COMPLETE LIST"
+          url: /software_all/
         - title: "Analysis & Quantification"
           url: /software_analysis/
         - title: "Data Simulation & Basis Set Generation"
@@ -54,6 +56,8 @@ datasets:
     children:
         - title: "Overview"
           url: /datasets/
+        - title: "How to host and organize your dataset"
+          url: /datasets_host_organize/
         - title: "Contribute your dataset"
           url: /datasets_contribute/
         - title: "Data privacy and compliance"

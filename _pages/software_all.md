@@ -1,7 +1,7 @@
 ---
-title: "Visualization"
-permalink: /software_visualization/
-date: 2020-05-15T9:00:00+00:00
+title: "Complete list of software packages"
+permalink: /software_all/
+date: 2020-06-17T9:00:00+00:00
 sidebar:
   nav: "software"
 toc: true
@@ -10,7 +10,6 @@ toc: true
 This is a list of analysis and quantification software.
 
 {% for software_collection in site.software_collection %}
-  {% if software_collection.type contains "visualization" %}
   <h2 id="{{ software_collection.name }}">
       {{ software_collection.name }}
   </h2>
@@ -46,5 +45,4 @@ This is a list of analysis and quantification software.
   {% if software_collection.mrshub_url %}<a href="{{ software_collection.mrshub_url }}">MRSHub Code</a>&nbsp;{% endif %}
   {% if software_collection.original_url %}<a href="{{ software_collection.original_url }}">Author Website</a>&nbsp;{% endif %}
   {% if software_collection.paper %}<a href="{{ software_collection.paper }}">Publication</a>{% endif %} {% if software_collection.paper2 %}<a href="{{ software_collection.paper2 }}">Publication 2</a>{% endif %} {% if software_collection.paper3 %}<a href="{{ software_collection.paper3 }}">Publication 3</a>{% endif %}
-  {% endif %}
 {% endfor %}

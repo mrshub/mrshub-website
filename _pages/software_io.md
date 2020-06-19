@@ -44,7 +44,7 @@ This is a list of input/output code to load or save raw data.
   </table>
 
   {% if software_collection.mrshub_url %}<a href="{{ software_collection.mrshub_url }}">MRSHub Code</a>&nbsp;{% endif %}
-  {% if software_collection.original_url %}<a href="{{ software_collection.original_url }}">Original Website</a>&nbsp;{% endif %}
+  {% if software_collection.original_url %}<a href="{{ software_collection.original_url }}">Author Website</a>&nbsp;{% endif %}
   {% if software_collection.paper %}<a href="{{ software_collection.paper }}">Publication</a>{% endif %} {% if software_collection.paper2 %}<a href="{{ software_collection.paper2 }}">Publication 2</a>{% endif %} {% if software_collection.paper3 %}<a href="{{ software_collection.paper3 }}">Publication 3</a>{% endif %}
   {% endif %}
 {% endfor %}

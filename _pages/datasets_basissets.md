@@ -51,6 +51,6 @@ This is a list of basis sets.
   </table>
 
   {% if dataset_collection.mrshub_url %}<a href="{{ dataset_collection.mrshub_url }}">MRSHub Data</a>&nbsp;{% endif %}
-  {% if dataset_collection.original_url %}<a href="{{ dataset_collection.original_url }}">Original Website</a>&nbsp;{% endif %}{% if dataset_collection.paper %}<a href="{{ dataset_collection.paper }}">Publication</a>{% endif %}
+  {% if dataset_collection.original_url %}<a href="{{ dataset_collection.original_url }}">Author Website</a>&nbsp;{% endif %}{% if dataset_collection.paper %}<a href="{{ dataset_collection.paper }}">Publication</a>{% endif %}
   {% endif %}
 {% endfor %}

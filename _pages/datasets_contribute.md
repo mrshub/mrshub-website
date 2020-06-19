@@ -19,7 +19,7 @@ We will then generate an [MRSHub website](https://www.mrshub.org/datasets) entry
 
 We distinguish between two types of dataset submission:
 - **Example datasets**: Smaller datasets that can be hosted in a single GitHub repository, and have a total size of less than 200 MB. We can fork these data into the [MRSHub GitHub account](https://github.com/mrshub).
-- **Large datasets**: Larger-scale datasets exceeding a total size of 200 MB. These datasets need to be hosted on an external file hoster, such as an institutional server, cloud service, or [NITRC](https://www.nitrc.org). Once you submit a large dataset, we will add an entry to the [MRSHub dataset collection](https://www.mrshub.org/datasets/)
+- **Large datasets**: Larger-scale datasets exceeding a total size of 200 MB. These datasets need to be hosted on an external file hoster ([please click here for further instructions](https://www.mrshub.org/datasets_host_organize)). Once you submit a large dataset, we will add an entry to the [MRSHub dataset collection](https://www.mrshub.org/datasets/)
 
 # What do I have to include in my submission?
 
@@ -64,9 +64,3 @@ Create a new topic in the [MRSHub forum](https://forum.mrshub.org) with a link t
 ## Submitting through e-mail
 
 Send an [e-mail (remove the dashes)](mailto:goe-ltzs-1[a]jh-mi.edu) with the basic submission information. We will then create an entry for your submission to the [MRSHub dataset collection](https://www.mrshub.org/datasets/). If you submit an example dataset (<200 MB total file size), we will also create a repository in the [MRSHub GitHub account](https://github.com/mrshub).
-
-# Organizing your dataset
-
-Every researcher organizes their data in a different way, which often leads to confusion and a lot of time spent on figuring out someone else's organization structure.
-
-The [Brain Imaging Data Structure (BIDS)](https://bids.neuroimaging.io/) specification is a consortium effort to standardize the way that neuroimaging data and metadata are organized into folder structures. When submitting your datasets to be featured on MRSHub, please consider organizing them according to the [BIDS folder hierarchy](https://github.com/bids-standard/bids-starter-kit/wiki/The-BIDS-folder-hierarchy), and include useful metadata (age, sex, ...)
