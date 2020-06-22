@@ -1,9 +1,9 @@
 ---
-title: "mymapVBVD"
-excerpt: "mymapVBVD"
+title: "pymapVBVD"
+excerpt: "pymapVBVD"
 
 
-name: mymapVBVD
+name: pymapVBVD
 image:
 developer: William Clarke
 type: inout processing
