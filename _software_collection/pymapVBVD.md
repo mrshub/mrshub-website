@@ -14,7 +14,7 @@ credit: No credit is required for the use of this code.
 contact: william.clarke@ndcn.ox.ac.uk, www.win.ox.ac.uk/people/william-clarke
 paper:
 mrshub_url: https://github.com/mrshub/mymapVBVD
-original_url: https://git.fmrib.ox.ac.uk/wclarke/pymapvbvd
+original_url: https://github.com/wexeee/pymapvbvd
 ---
 
 pymapVBVD.

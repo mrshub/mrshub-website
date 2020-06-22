@@ -13,7 +13,7 @@ contact: assaf.tal@weizmann.ac.il
 license: BSD3
 paper:
 mrshub_url:
-original_url: https://www.vdisoftware.net
+original_url: http://www.vdisoftware.net
 ---
 
 VDI.
