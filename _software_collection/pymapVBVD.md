@@ -13,7 +13,7 @@ license: MIT
 credit: No credit is required for the use of this code.
 contact: william.clarke@ndcn.ox.ac.uk, www.win.ox.ac.uk/people/william-clarke
 paper:
-mrshub_url: https://github.com/mrshub/mymapVBVD
+mrshub_url: https://github.com/mrshub/pymapVBVD
 original_url: https://github.com/wexeee/pymapvbvd
 ---
 
