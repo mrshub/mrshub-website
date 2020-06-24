@@ -12,7 +12,7 @@ format: LCModel .RAW
 sequence: sLASER
 license: BSD3
 contact: tamas.borbath@tuebingen.mpg.de
-credit: Please cite the following publication if you use the MM human brain spectra 9.4T dataset: Murali Manohar S, Borbath T, Wright AM, Soher B, Mekle R, Henning A. T2 relaxation times of macromolecules and metabolites in the human brain at 9.4 T. Magnetic resonance in medicine. 2020;84:542–58.
+credit: Please cite the following publication if you use the MM human brain spectra 9.4T dataset. Murali Manohar S, Borbath T, Wright AM, Soher B, Mekle R, Henning A. T2 relaxation times of macromolecules and metabolites in the human brain at 9.4 T. Magnetic resonance in medicine. 2020;84:542–58.
 paper: https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.28174
 mrshub_url: https://github.com/mrshub/mm-94T-TE-series-fit-settings
 original_url:
