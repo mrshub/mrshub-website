@@ -4,7 +4,7 @@ excerpt: "7T-FID-MRSI example of metabolite-nulled macromolecules spectra"
 
 
 name: 7T-FID-MRSI example of metabolite-nulled macromolecules spectra
-image:
+image: /assets/images/data/7T-fid-mrsi-mm.png
 developer: Michal Povazan, Wolfgang Bogner
 type: mrsi, mm
 abstract: This is the example of metabolite-nulled macromolecules spectra acquired from 6 healthy young volunteers scanned at 7T using double-inversion recovery FID-MRSI
