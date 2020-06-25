@@ -84,13 +84,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mr_spectroscopy"
+      url: "https://twitter.com/ismrm_mrshub"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mrshub"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 # Collections
 collections:
