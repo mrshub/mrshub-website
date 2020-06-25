@@ -1,9 +1,9 @@
 ---
-title: "MRSI Data for "High-Resolution Metabolic Imaging of High-Grade Gliomas using 7T-CRT-FID-MRSI""
-excerpt: "MRSI Data for "High-Resolution Metabolic Imaging of High-Grade Gliomas using 7T-CRT-FID-MRSI""
+title: "MRSI Data for 'High-Resolution Metabolic Imaging of High-Grade Gliomas using 7T-CRT-FID-MRSI'"
+excerpt: "MRSI Data for 'High-Resolution Metabolic Imaging of High-Grade Gliomas using 7T-CRT-FID-MRSI'"
 
 
-name: MRSI Data for "High-Resolution Metabolic Imaging of High-Grade Gliomas using 7T-CRT-FID-MRSI"
+name: MRSI Data for 'High-Resolution Metabolic Imaging of High-Grade Gliomas using 7T-CRT-FID-MRSI'
 image:
 developer: Wolfgang Bogner, Gilbert Hangel
 type: mrsi
