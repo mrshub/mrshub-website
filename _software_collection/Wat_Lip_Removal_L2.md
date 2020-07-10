@@ -13,7 +13,7 @@ credit: Please cite the publication mentioned below if you use Wat_Lip_Removal_L
 contact: liangjielin01@gmail.com
 license: BSD3
 paper: https://doi.org/10.1002/mrm.27824
-mrshub_url:
+mrshub_url: https://github.com/mrshub/Wat_Lip_Removal_L2
 original_url:
 ---
 
