@@ -16,7 +16,7 @@ To maintain and update the MRSHub website, you will need to set up two software 
 
 3. To test the changes you made locally, open a terminal or prompt, navigate to the folder you just created (so you can see the file `_config.yml`).
 
-4. Type the command `jekyll serve` and hit Enter. If you see `jekyll` producing errors at this stage, try re-installing and upgrading (follow the [Jekyll installation guide](https://jekyllrb.com/docs/installation/) again). After upgrading to Jekyll 4.2, I previously had to add a deprecated dependency with the command `bundle add webrick` ([instructions here](https://github.com/jekyll/jekyll/issues/8523)).
+4. Type the command `jekyll serve` and hit Enter. If you see `jekyll` producing errors at this stage, try using the command `bundle exec jekyll serve` instead. If that does not resolve the problem, re-installe and upgrade Jekyll (follow the [Jekyll installation guide](https://jekyllrb.com/docs/installation/) again). After upgrading to Jekyll 4.2, I previously had to add a deprecated dependency with the command `bundle add webrick` ([instructions here](https://github.com/jekyll/jekyll/issues/8523)).
 
 5. After a while, you should see a line `Server address: http://127.0.0.1:4000/`. You can copy the address into your web browser and test the functionality of the local copy of the site. Make sure that all the changes you made appear. Back in the terminal window, hitting Ctrl-C will stop the local Jekyll server.
 

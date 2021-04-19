@@ -67,6 +67,8 @@ datasets:
     children:
         - title: "Single-voxel MRS"
           url: /datasets_svs/
+        - title: "Functional MRS"
+          url: /datasets_fmrs/
         - title: "MRSI"
           url: /datasets_mrsi/
         - title: "Macromolecules"
