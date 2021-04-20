@@ -12,7 +12,7 @@ language: Python
 license: BSD-3
 credit:
 contact: vesp.mrs@gmail.com
-paper: Soher BJ et.al. Vespa: Integrated applications for RF pulse design, spectral simulation and MRS data analysis. 19th Meeting ISMRM, Montreal 2011
+paper: "Soher BJ et.al. Vespa: Integrated applications for RF pulse design, spectral simulation and MRS data analysis. 19th Meeting ISMRM, Montreal 2011"
 mrshub_url: https://github.com/vespa-mrs/vespa
 original_url: https://vespa-mrs.github.io/vespa.io/
 ---
