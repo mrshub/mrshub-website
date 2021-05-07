@@ -15,7 +15,7 @@ contact: gilbert.hangel@meduniwien.ac.at
 credit: "Hangel et al. 2020-21"
 paper:
 mrshub_url:
-original_url: 10.5281/zenodo.4382176
+original_url: https://doi.org/10.5281/zenodo.4382176
 
 ---
 
