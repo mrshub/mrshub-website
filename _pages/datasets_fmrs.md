@@ -4,6 +4,7 @@ permalink: /datasets_fmrs/
 date: 2021-04-19T00:00:00+00:00
 sidebar:
   nav: "datasets"
+toc: true
 ---
 
 This is a list of functional MRS datasets.

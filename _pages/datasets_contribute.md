@@ -5,6 +5,7 @@ date: 2020-05-20T9:00:00+00:00
 classes: wide
 sidebar:
   nav: "datasets"
+toc: true
 ---
 
 There are two easy ways to submit data to be featured on MRSHub (more details below:)

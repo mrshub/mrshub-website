@@ -45,6 +45,8 @@ software:
           url: /software_io/
         - title: "Processing"
           url: /software_processing/
+        - title: "Reconstruction"
+          url: /software_reconstruction/
         - title: "Reproducible Workflows"
           url: /software_reproducible_workflows/
         - title: "Visualization"

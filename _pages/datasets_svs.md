@@ -4,6 +4,7 @@ permalink: /datasets_svs/
 date: 2020-05-20T00:00:00+00:00
 sidebar:
   nav: "datasets"
+toc: true
 ---
 
 This is a list of single-voxel MRS datasets.

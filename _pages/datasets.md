@@ -4,6 +4,7 @@ permalink: /datasets/
 date: 2020-05-20T00:00:00+00:00
 sidebar:
   nav: "datasets"
+toc: true
 ---
 
 # How to access datasets
