@@ -23,3 +23,7 @@ To maintain and update the MRSHub website, you will need to set up two software 
 6. If you're happy with the local rendering of the site, commit the changes back to the 'develop' branch of the repository.
 
 7. Submit a pull request from the 'develop' branch to the 'master' branch of the repository. The site will then automatically be rebuilt by the Netlify host service. You can check the status of the rebuild by logging into Netlify with the MRSHub GitHub account credentials. Once the build is successful, the [MRSHub website](https://www.mrshub.org) is live without further ado.
+
+## Common error messages
+
+The `bundle exec jekyll serve` command in step (4) above may fail if Markdown files for adding new entries to the data or software collections are formatted incorrectly. This is not always obvious, but almost always means that you are using a special character in a text field that you are not allowed to use. Pay particular attention to `""` inside other `""`, backslashes `/` and colons `:` - when in doubt, remove them and see whether the error persists.
