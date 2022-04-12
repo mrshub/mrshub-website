@@ -40,4 +40,16 @@ The MRSHub is a curated collection of resources for the analysis of magnetic res
   {{ notice-text | markdownify }}
 </div>
 
+{% capture mrs-workshop-text %}
+Come and join the international MRS community for this on-site event! Learn the state of the art from the experts, and share your work with your peers.
+
+**[Register now!](https://mrs2022.cibm.ch/)**
+{% endcapture %}
+
+
+<div class="notice--success" align="center">
+  <h1>MRS Workshop in Lausanne (August 22-24 2022)</h1>
+  {{ mrs-workshop-text | markdownify }}
+</div>
+
 {% include feature_row %}
