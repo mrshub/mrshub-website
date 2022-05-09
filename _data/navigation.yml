@@ -2,6 +2,9 @@ main:
   - title: "Home"
     url: /
     description: "The MRSHub Home"
+  - title: "Learning MRS"
+    url: https://mrshub.github.io/mrs-educational-book/
+    description: "The MRSHub educational material repository"
   - title: "Software & Code"
     url: /software/
     description: "The MRSHub software and code repository"
