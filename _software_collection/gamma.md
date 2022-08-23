@@ -14,7 +14,7 @@ contact:
 license: open-source
 paper: https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.26091
 mrshub_url:
-original_url: http://scion.duhs.duke.edu/vespa/gamma
+original_url: https://pygamma-mrs.github.io/gamma.io/
 ---
 
 GAMMA and PyGamma.
