@@ -30,7 +30,7 @@ feature_row:
 ---
 
 {% capture notice-text %}
-The MRSHub is a curated collection of resources for the analysis of magnetic resonance spectroscopy data. It is maintained by the Committee for MRS Code and Data Sharing of the MR Spectroscopy Study Group of the International Society for Magnetic Resonance in Medicine (ISMRM).
+The MRSHub is a curated collection of resources for magnetic resonance spectroscopy, including data, software code, educational material, and a forum for knowledge exchange and collaboration. The MRSHub promotes open science. All resources are publicly available.
 
 **[We are actively seeking contributions! If you are interested in advancing open science in MRS, please see our MRSHub User Guide!](https://forum.mrshub.org/t/mrshub-user-guide/7)**
 {% endcapture %}
@@ -41,9 +41,9 @@ The MRSHub is a curated collection of resources for the analysis of magnetic res
 </div>
 
 {% capture mrs-workshop-text %}
-Proceedings from the 2022 MRS Workshop (including video-recorded lectures and presentation PDFs) are now online for free access without registration!
+Proceedings from the 2022 Lausanne MRS Workshop (including video-recorded lectures and presentation PDFs) are now online for free access without registration!
 
-**[2022 MRS Workshop Proceedings](https://mrs2022.cibm.ch/agenda/)**
+**[2022 Lausanne MRS Workshop Proceedings](https://mrs2022.cibm.ch/agenda/)**
 {% endcapture %}
 
 
