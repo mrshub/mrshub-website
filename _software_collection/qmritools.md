@@ -18,7 +18,7 @@ paper: https://joss.theoj.org/papers/ef8bfb6c31499845d353b6a5af0d6300
 paper2: https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.22477
 paper3: https://onlinelibrary.wiley.com/doi/10.1002/jmri.23608
 mrshub_url:
-original_url: https://mfroeling.github.io/QMRITools/
+original_url: https://www.qmritools.com/
 
 ---
 
