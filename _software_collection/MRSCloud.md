@@ -2,8 +2,8 @@
 title: "MRSCloud"
 excerpt: "MRSCloud"
 
-name: CloudBrain-MRS
-developer: Jiayu Li, Xiaodie Chen, Dicheng Chen, Yirong Zhou, Zhangren Tu, Meijin Lin, Xiaobo Qu
+name: MRSCloud
+developer: Steve C N Hui, Muhammad G Saleh, Helge J Zöllner, Georg Oeltzschner, Hongli Fan, Yue Li, Yulu Song, Hangyi Jiang, Jamie Near, Hanzhang Lu, Susumu Mori, Richard A E Edden
 type: simulation
 abstract: "MRSCloud allows MRS users to simulate a vendor-specific and sequence-specific basis set online in a convenient and time-efficient manner. This tool can simulate basis sets for GE, Philips, and Siemens MR scanners."
 language: MATLAB
