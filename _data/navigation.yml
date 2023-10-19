@@ -1,7 +1,4 @@
 main:
-  - title: "Home"
-    url: /
-    description: "The MRSHub Home"
   - title: "Learning MRS"
     url: https://mrshub.github.io/mrs-educational-book/
     description: "The MRSHub educational material repository"
@@ -17,6 +14,9 @@ main:
   - title: "Events"
     url: /events/
     description: "Calendar of MRS events"
+  - title: "Projects"
+    url: /projects/
+    description: "Ongoing community projects"
   - title: "Links"
     url: /links/
     description: "Useful links and resources"
@@ -92,6 +92,13 @@ links:
       url: /links/
     - title: "Videos and courses"
       url: /links_courses/
+
+# community projects sidebar links
+projects:
+  - title: "Projects"
+    children:
+    - title: "Synthetic MRS"
+      url: /projects_synthetic_mrs/
 
 # about sidebar links
 about:
