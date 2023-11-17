@@ -51,7 +51,7 @@ Define general and case-specific recommendations:
   - Meeting agendas & notes
   - Focus group documents
 
-- Slack Group: [Link to Slack Group](https://tinyurl.com/WGslack)
+- Slack Group: [Link to Slack Group](https://join.slack.com/t/syntheticmrs/shared_invite/zt-1tptm0rgj-m2ctuJzWDz9ExPx_s2WnHQ)
   - Discussions
   - Questions
   - Task Division
