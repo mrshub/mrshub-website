@@ -13,6 +13,7 @@ This is a list of MRS-related events. Please post in the MRSHub forum if you hos
 
 | Title | Date | Location | Link |
 |-------|------|----------|------|
+| Advancing Spectroscopy with Ultra-High Field MRI: Hardware, Sequences & Applications | February 24, 2024 | Virtual Meeting | [ISMRM Study Group Webpage](https://www.ismrm.org/virtual-meetings/){:target="_blank"} |
 | MR Spectroscopy Workshop 2024 | TBD | Boston, MA | TBD |
 
 ## 2023
