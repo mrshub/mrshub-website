@@ -56,6 +56,10 @@ Define general and case-specific recommendations:
   - Questions
   - Task Division
 
+#### Give your input
+  - Framework Survey: [Link to Framework Survey](https://forms.gle/coTSZcSfRpYQo7XS7)
+  - Order of Operations: [Link to Order of Operations Survey](https://forms.gle/hEDdsgn3nw3Kstv27)
+  - Simulation Methods: [Link to Simulation Methods Survey](https://forms.gle/nSepbjBJtbvgJ8F9A)
 
 #### Contact Us
 {% include feature_row %}
