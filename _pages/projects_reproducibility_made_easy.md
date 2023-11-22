@@ -11,7 +11,7 @@ feature_row:
   - image_path: /assets/images/reproducibility_made_easy/Gianna_Nossa.jpg
     alt: "Gianna Nossa"
     title: "Gianna<br>Nossa"
-    excerpt: "Postdoctoral Fellow<br>gnossa@purdue.edu<br><br>Purdue University<br>School of Health Sciences<br><br>_W Lafayette, Indiana_"
+    excerpt: "PhD Candidate<br>gnossa@purdue.edu<br><br>Purdue University<br>School of Health Sciences<br><br>_W Lafayette, Indiana_"
 
   - image_path: /assets/images/reproducibility_made_easy/Antonia_Kaiser.jpg
     alt: "Antonia Kaiser"
