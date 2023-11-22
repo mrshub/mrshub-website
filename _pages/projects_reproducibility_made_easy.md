@@ -10,63 +10,43 @@ feature_row:
 
   - image_path: /assets/images/reproducibility_made_easy/Gianna_Nossa.jpg
     alt: "Gianna Nossa"
-    title: "Gianna Nossa"
-    excerpt: "Postdoctoral\nFellow\ngnossa@purdue.edu\n\nPurdue - W Lafayette, Indiana"
+    title: "Gianna<br>Nossa"
+    excerpt: "Postdoctoral Fellow<br>gnossa@purdue.edu<br><br>Purdue University<br>School of Health Sciences<br><br>_W Lafayette, Indiana_"
 
   - image_path: /assets/images/reproducibility_made_easy/Antonia_Kaiser.jpg
     alt: "Antonia Kaiser"
-    title: "Antonia Kaiser"
-    excerpt: "Postdoctoral\nFellow\nantonia.kaiser@epfl.ch\n\nCIBM, EPFL - Lausanne, Switzerland"
+    title: "Antonia<br>Kaiser"
+    excerpt: "Postdoctoral Fellow<br>antonia.kaiser@epfl.ch<br><br>École Polytechnique Fédérale de Lausanne,<br>Center for Biomedical Imaging<br>_Lausanne, Switzerland_"
 
   - image_path: /assets/images/reproducibility_made_easy/Antonia_Susnjar.jpg
     alt: "Antonia Susnjar"
-    title: "Antonia Susnjar"
-    excerpt: "Postdoctoral\nFellow\nasusnjar@mgh.harvard.edu\n\nHMS - Boston, Massachusetts"
+    title: "Antonia<br>Susnjar"
+    excerpt: "Postdoctoral Fellow<br>asusnjar@mgh.harvard.edu<br><br>Harvard University<br>School of Medicine<br><br><br>_Boston, Massachusetts_"
 
   - image_path: /assets/images/reproducibility_made_easy/Dunja_Simicic.jpg
     alt: "Dunja Simicic"
-    title: "Dunja Simicic"
-    excerpt: "Postdoctoral\nFellow\ndsimici1@jh.edu\n\nJHU, KKI - Baltimore, Maryland"
+    title: "Dunja<br>Simicic"
+    excerpt: "Postdoctoral Fellow<br>dsimici1@jh.edu<br><br>Johns Hopkins<br>School of Medicine<br>Kennedy Krieger Insitute<br>_Baltimore, Maryland_"
 
   - image_path: /assets/images/reproducibility_made_easy/Aaron_Gudmundson.jpg
     alt: "Aaron Gudmundson"
     title: "Aaron Gudmundson"
-    excerpt: "Research\nAssociate\nagudmun2@jhmi.edu\n\nJHU, KKI - Baltimore, Maryland"    
+    excerpt: "Research Associate<br>agudmun2@jhmi.edu<br><br>Johns Hopkins<br>School of Medicine<br>Kennedy Krieger Insitute<br>_Baltimore, Maryland_"    
 ---
 
 
+## Reproducibility Made Easy
+The 'Reproducibility Made Easy' application provides researchers and clinicians the ability to comprehensively document study parameters. It automates table population from a single datafile, facilitating result replication, and method evaluation. This software also generates a straight-forward MRS methods section which ensures reporting accuracy and result interpretability.
 
-## Synthetic MRS
-
-  ![Overview of Objectives and Goals](/assets/images/synthetic_mrs/syntheticdata.png)
+  ![Overview of Objectives and Goals](/assets/images/reproducibility_made_easy/ReproducibilityMadeEasyWorkflow.png)
 
 
-#### Objectives and End goals:
-1. Produce comprehensive and universal summary/recommendations for simulating synthetic spectra with use case-specific recommendations when necessary
-2. Create a community-based synthetic data generator tool (based on the information we gather in step 1)
-
-    ![Overview of Objectives and Goals](/assets/images/synthetic_mrs/Workflow.png)
-
-#### Use Case Categories
-
-Define general and case-specific recommendations:
-1. Hardware optimization
-2. Acquisition/sequence optimization
-3. Validation of processing/analysis tools
-4. Machine learning applications
-
-    ![Best Practices](/assets/images/synthetic_mrs/Usecases.png)
+#### Objectives:
+The primary goal is to automate the MRSinMRS Table population and methods section generation. 
 
 
 #### How to get involved
-- Google drive folder: [Link to Google Drive](https://tinyurl.com/WGgdrive)
-  - Meeting agendas & notes
-  - Focus group documents
-
-- Slack Group: [Link to Slack Group](https://join.slack.com/t/syntheticmrs/shared_invite/zt-1tptm0rgj-m2ctuJzWDz9ExPx_s2WnHQ)
-  - Discussions
-  - Questions
-  - Task Division
+This project is currently in the process of being written up for publication. However, if you would like to get involved as this project continues to develop, please contact a team member below!
 
 
 #### Contact Us
