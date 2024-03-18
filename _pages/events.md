@@ -17,6 +17,7 @@ This is a list of MRS-related events. Please post in the MRSHub forum if you hos
 | MRathon 2024 Singapore | May 2-3, 2024 | Singapore | [MRathon](https://mrathon.github.io/singapore2024/){:target="_blank"} |
 | MR Spectroscopy Workshop 2024 | October 14-18, 2024 | Boston, MA | TBD |
 | 2nd Annual MRS Hackathon | October 18-19, 2024 | Boston, MA | TBD |
+| 8th Annual EDITINGSCHOOL and Symposium for Advanced MRS | November 18-22, 2024 | Playa Del Carmen, Mexico | [Event Page](https://editingschool-and-symposium-2024.eventbee.com){:target="_blank"} | |
 
 ## 2023
 
