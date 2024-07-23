@@ -41,11 +41,10 @@ The MRSHub is a curated collection of resources for magnetic resonance spectrosc
 </div>
 
 {% capture hackathon-2024-text %}
-After the great success of the first edition in Toronto 2023, we're once again bringibg together open-minded MRS researchers who want to collaboratively solve problems and create useful tools and resources for the community. ! Please join us for the 2nd MRS Hackathon in Boston, Massachussetts, right after the official MRS Workshop. Registration is **free**. 
+After the great success of the first edition in Toronto 2023, we're once again bringing together open-minded MRS researchers who want to collaboratively solve problems and create useful tools and resources for the community! Please join us for the 2nd MRS Hackathon in Boston, Massachussetts, right after the official MRS Workshop. Registration is **free**. 
 
 **[MRS Hackathon 2024 Website](https://sites.google.com/view/mrshackathon2024/home)**
-
-**[ISMRM MRS Workshop 2024 Website](https://www.ismrm.org/workshops/2024/MRS)**
+       **[ISMRM MRS Workshop 2024 Website](https://www.ismrm.org/workshops/2024/MRS)**
 {% endcapture %}
 
 
