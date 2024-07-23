@@ -40,16 +40,17 @@ The MRSHub is a curated collection of resources for magnetic resonance spectrosc
   {{ notice-text | markdownify }}
 </div>
 
-{% capture mrs-workshop-text %}
-Proceedings from the 2022 Lausanne MRS Workshop (including video-recorded lectures and presentation PDFs) are now online for free access without registration!
+{% capture hackathon-2024-text %}
+After the great success of the first edition in Toronto 2023, we're once again bringibg together open-minded MRS researchers who want to collaboratively solve problems and create useful tools and resources for the community. ! Please join us for the 2nd MRS Hackathon in Boston, Massachussetts, right after the official MRS Workshop. Registration is **free**. 
 
-**[2022 Lausanne MRS Workshop Proceedings](https://mrs2022.cibm.ch/agenda/)**
+**[MRS Hackathon 2024 Website](https://sites.google.com/view/mrshackathon2024/home)**
+**[ISMRM MRS Workshop 2024 Website](https://www.ismrm.org/workshops/2024/MRS)**
 {% endcapture %}
 
 
 <div class="notice--success" align="center">
-  <h1>Proceedings from the 2022 MRS Workshop in Lausanne</h1>
-  {{ mrs-workshop-text | markdownify }}
+  <h1>Registration now open for the MRS Hackathon 2024 in Boston (October 18-19)!</h1>
+  {{ hackathon-2024-text | markdownify }}
 </div>
 
 {% include feature_row %}
