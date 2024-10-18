@@ -19,6 +19,7 @@ This is a list of MRS-related events. Please post in the MRSHub forum if you hos
 | 2nd Annual MRS Hackathon | October 18-19, 2024 | Boston, MA | [MRS Hackathon 2024](https://sites.google.com/view/mrshackathon2024/){:target="_blank"} |
 | 2024 EDITINGSCHOOL & MRS Symposium | November 18-22, 2024 | Playa del Carmen, MX | [EDITINGSCHOOL & MRS Symposium Website](https://www.gabamrs.com/editingschool){:target="_blank"} |
 | INSPECTOR MR Spectroscopy Workshop 2024 | November 22, 2024 | New York City, NY | [INSPECTOR Workshop Website](https://juchem.bme.columbia.edu/content/mr-spectroscopy-workshop){:target="_blank"} |
+| Course on Simulating Metabolite MR Signals in NMRScopeB (jMRUI) | November 25, 2024 | Virtual Meeting | [NMRScopeB Course Website](http://isibrno.cz/czbi/training.html#NMRScopeB){:target="_blank"} |
 
 ## 2023
 
