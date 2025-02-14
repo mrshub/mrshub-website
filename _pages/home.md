@@ -38,7 +38,7 @@ For the first time, we are teaming up to bring together MRI and MRS researchers,
 {% endcapture %}
 
 <div class="notice--success" align="center">
-  <h1>Registration now open for the MRS x MRathon 2025 in Honolulu (October 18-19)!</h1>
+  <h1>Registration now open for the MRS x MRathon 2025 in Honolulu (May 8-9)!</h1>
   {{ hackathon-2025-text | markdownify }}
 </div>
 
