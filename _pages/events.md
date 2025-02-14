@@ -9,6 +9,12 @@ date: 2023-10-13T9:00:00+00:00
 
 This is a list of MRS-related events. Please post in the MRSHub forum if you host an MRS event - we'll be happy to post it here!
 
+## 2025
+
+| Title | Date | Location | Link |
+|-------|------|----------|------|
+| MRS x MRathon 2025 Honolulu | May 8-9, 2025 | Honolulu, HI | [MRS x MRathon 2025](https://sites.google.com/view/mrsxmrathon2025/){:target="_blank"} |
+
 ## 2024
 
 | Title | Date | Location | Link |
