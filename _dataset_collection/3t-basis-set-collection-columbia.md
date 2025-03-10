@@ -15,7 +15,7 @@ contact: cwj2112@columbia.edu
 credit: "Please cite the following publication if you use this dataset: Landheer K, Swanberg, K, Juchem C. Magnetic resonance Spectrum simulator (MARSS), a novel software package for fast and computationally efficient basis set simulation. NMR Biomed. 2019, e4219. doi.org/10.1002/nbm.4129"
 paper: https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/nbm.4129
 mrshub_url:
-original_url: http://juchem.bme.columbia.edu/mr-spectroscopy-basis-sets
+original_url: https://juchem.bme.columbia.edu/content/mr-spectroscopy-basis-sets
 ---
 
 Basis sets for PRESS, STEAM and sLASER for multiple vendors
