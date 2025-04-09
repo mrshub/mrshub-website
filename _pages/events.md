@@ -14,6 +14,8 @@ This is a list of MRS-related events. Please post in the MRSHub forum if you hos
 | Title | Date | Location | Link |
 |-------|------|----------|------|
 | MRS x MRathon 2025 Honolulu | May 8-9, 2025 | Honolulu, HI | [MRS x MRathon 2025](https://sites.google.com/view/mrsxmrathon2025/){:target="_blank"} |
+| Functional Magnetic Resonance Spectroscopy Symposium II | August 31 – September 2, 2025 | Bangor, UK | [fMRS Symposium](https://pgmm03.uk/functional-magnetic-resonance-spectroscopy-symposium-ii-1st-2nd-september-2025/) |
+| 9th GABA and Advanced Edited MRS Symposium | September 3-5, 2025 | Bangor, UK | [GABA & advanced MRS Symposium](https://pgmm03.uk/edited-spectroscopy-symposium-ii-3rd-5th-september-2025/)|
 
 ## 2024
 
