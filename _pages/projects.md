@@ -9,6 +9,13 @@ toc: true
 
 ## Ongoing Community Projects
 
+#### [Big fMRS](/projects_big_fmrs/)
+
+![Big fMRS Logo](/assets/images/big_fmrs/big-fmrs-logo.png)
+
+- Multi-site study aimed at better understanding the sources of variability in the fMRS signal
+- Led by Betina Ip, Paul Mullins, Anouk Schrantee
+
 #### [Synthetic MRS](/projects_synthetic_mrs/)
 
 ![Overview of Objectives and Goals](/assets/images/synthetic_mrs/syntheticdata.png)
