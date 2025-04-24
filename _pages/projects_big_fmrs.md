@@ -8,7 +8,7 @@ toc: true
 ---
 
 
-## Synthetic MRS
+## Big fMRS
 
 ![Big fMRS Logo](/assets/images/big_fmrs/big-fmrs-logo.png)
 
