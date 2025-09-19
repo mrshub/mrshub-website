@@ -29,17 +29,13 @@ feature_row:
 
 ---
 
-{% capture hackathon-2025-text %}
-We are excited to announce that registration is now open for the [MRS](https://sites.google.com/view/mrsxmrathon2025/home) x [MRathon](https://mrathon.github.io/honolulu2025/) 2025!
-
-For the first time, we are teaming up to bring together MRI and MRS researchers, tool developers, and enthusiasts to solve challenges, create innovative resources, and connect with like-minded individuals in a collaborative, fun environment.
-
-**[MRS x MRathon 2025 Website](https://sites.google.com/view/mrsxmrathon2025/home)**
+{% capture workshop-2026-text %}
+**More details to follow soon!**
 {% endcapture %}
 
 <div class="notice--success" align="center">
-  <h1>Registration now open for the MRS x MRathon 2025 in Honolulu (May 8-9)!</h1>
-  {{ hackathon-2025-text | markdownify }}
+  <h1>🌟 Save the Date for October 14–18, 2026 - Join Us in Türkiye for MRS Workshop 2026!</h1>
+  {{ workshop-2026-text | markdownify }}
 </div>
 
 {% capture notice-text %}

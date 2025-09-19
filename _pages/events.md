@@ -9,6 +9,12 @@ date: 2023-10-13T9:00:00+00:00
 
 This is a list of MRS-related events. Please post in the MRSHub forum if you host an MRS event - we'll be happy to post it here!
 
+## 2026
+
+| Title | Date | Location | Link |
+|-------|------|----------|------|
+| MR Spectroscopy Workshop 2026 | October 14-18, 2026 | Kuşadası, Türkiye | details to follow |
+
 ## 2025
 
 | Title | Date | Location | Link |
