@@ -13,7 +13,8 @@ This is a list of MRS-related events. Please post in the MRSHub forum if you hos
 
 | Title | Date | Location | Link |
 |-------|------|----------|------|
-| MR Spectroscopy Workshop 2026 | October 14-18, 2026 | Kuşadası, Türkiye | details to follow |
+| 2026 EDITINGSCHOOL & Advanced MRS Symposium | September 14-18, 2026 | Anchorage, Alaska, United States | [GABA & advanced MRS Symposium](https://www.eventbee.com/v/editingschool-and-advanced-mrs-symposium-2026/event?eid=287226451#/tickets)|
+| MR Spectroscopy Workshop 2026 | October 14-18, 2026 | Kuşadası, Türkiye | [MRS Workshop 2026](https://mrs2026.com/) |
 
 ## 2025
 
