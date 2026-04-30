@@ -1,0 +1,115 @@
+main:
+  - title: "Learning MRS"
+    url: https://mrshub.github.io/mrs-educational-book/
+    description: "The MRSHub educational material repository"
+  - title: "Software & Code"
+    url: /software/
+    description: "The MRSHub software and code repository"
+  - title: "Forum"
+    url: https://forum.mrshub.org
+    description: "The MRSHub community forum"
+  - title: "Data"
+    url: /datasets/
+    description: "The MRSHub software and code repository"
+  - title: "Events"
+    url: /events/
+    description: "Calendar of MRS events"
+  - title: "Projects"
+    url: /projects/
+    description: "Ongoing community projects"
+  - title: "Links"
+    url: /links/
+    description: "Useful links and resources"
+  - title: "News"
+    url: /news/
+    description: "The MRSHub News Blog"
+  - title: "About"
+    url: /about/
+    description: "About MRSHub"
+
+
+# software sidebar links
+software:
+  - title: "Software & Code"
+    children:
+        - title: "How to access code"
+          url: /software/
+        - title: "Contribute your code"
+          url: /software_contribute/
+
+  - title: "Software Packages"
+    children:
+        - title: "COMPLETE LIST"
+          url: /software_all/
+        - title: "Analysis & Quantification"
+          url: /software_analysis/
+        - title: "Data Simulation & Basis Set Generation"
+          url: /software_simulation/
+        - title: "Deidentification"
+          url: /software_deid/
+        - title: "Input/Output"
+          url: /software_io/
+        - title: "Processing"
+          url: /software_processing/
+        - title: "Reconstruction"
+          url: /software_reconstruction/
+        - title: "Reproducible Workflows"
+          url: /software_reproducible_workflows/
+        - title: "Visualization"
+          url: /software_visualization/
+
+# datasets sidebar links
+datasets:
+  - title: "Data"
+    children:
+        - title: "Overview"
+          url: /datasets/
+        - title: "How to host and organize your dataset"
+          url: /datasets_host_organize/
+        - title: "Contribute your dataset"
+          url: /datasets_contribute/
+        - title: "Data privacy and compliance"
+          url: /datasets_privacy/
+
+  - title: "Available datasets"
+    children:
+        - title: "Single-voxel MRS"
+          url: /datasets_svs/
+        - title: "Functional MRS"
+          url: /datasets_fmrs/
+        - title: "MRSI"
+          url: /datasets_mrsi/
+        - title: "Macromolecules"
+          url: /datasets_mm/
+        - title: "Basis sets"
+          url: /datasets_basissets/
+
+# links sidebar links
+links:
+  - title: "Links"
+    children:
+    - title: "Useful Links"
+      url: /links/
+    - title: "Videos and courses"
+      url: /links_courses/
+
+# community projects sidebar links
+projects:
+  - title: "Projects"
+    children:
+    - title: "Big fMRS"
+      url: /projects_big_fmrs/
+    - title: "Synthetic MRS"
+      url: /projects_synthetic_mrs/
+    - title: "Reproducibility Made Easy"
+      url: /projects_reproducibility_made_easy//
+    - title: "<sup>1</sup>H-MRS VERI"
+      url: /projects_1hmrs_veri//
+
+
+# about sidebar links
+about:
+  - title: "About"
+    children:
+      - title: "MRSHub"
+        url: /about/
