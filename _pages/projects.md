@@ -39,4 +39,4 @@ toc: true
 ![1H-MRS VERI Logo](/assets/images/1h-mrs_veri/1h-mrs_veri_logo.png)
 
 <sup>1</sup>H-MRS VERI (the Proton MRS Validation Effort Resource Initiative) is a community-driven platform for curating and sharing spectral data that can be used to quantitatively validate proton magnetic resonance spectral processing and quantification tools. Our ultimate aim is to foster empirical consensus recommendations for spectral processing and quantification based on measures of not only precision but also accuracy that involve some connection to ground truth.
-- Team: Kelley M. Swanberg, Helge Zöllner, Candace Fleischer, Jamie Near, John LaMaster, Antonia Kaiser, Georg Oeltzscher
+- Team: Kelley M. Swanberg, Helge Zöllner, Candace Fleischer, Jamie Near, John LaMaster, Antonia Kaiser, Georg Oeltzschner
