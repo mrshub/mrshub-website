@@ -97,8 +97,20 @@ links:
 projects:
   - title: "Projects"
     children:
+<<<<<<< HEAD
+    - title: "Big fMRS"
+      url: /projects_big_fmrs/
     - title: "Synthetic MRS"
       url: /projects_synthetic_mrs/
+    - title: "Reproducibility Made Easy"
+      url: /projects_reproducibility_made_easy//
+    - title: "<sup>1</sup>H-MRS VERI"
+      url: /projects_1hmrs_veri//
+
+=======
+    - title: "Synthetic MRS"
+      url: /projects_synthetic_mrs/
+>>>>>>> upstream/develop
 
 # about sidebar links
 about:
